@@ -24,7 +24,7 @@
 - Front End - **HTML**, **CSS**
 
 
-#### Shopify clone  [Preview Link](https://project-3-ui.netlify.app/)
+#### Justice site project 3 UI  [Preview Link](https://project-3-ui.netlify.app/)
 
 ---
 

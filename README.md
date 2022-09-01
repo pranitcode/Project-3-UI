@@ -38,7 +38,7 @@
 
    [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@pranitingole&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranitingole/) 
 
-***Glad to see you here! Show some love by [starring](https://github.com/pranitcode/Project-3-UI) this repo.***
+***Glad to see you here! Show some love by ❤️ [like](https://www.findcoder.io/project/justice-site-project-three-ui/631115b03f7d1206860dc6d3) this project on [findcoder](https://www.findcoder.io/u/pranitingole) .***
 
 
 ******
